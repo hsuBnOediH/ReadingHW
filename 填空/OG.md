@@ -454,3 +454,18 @@ E 困惑的
 
 
 
+miserliness:  greedy
+
+stinginess : mean
+
+frugality :   avoiding waste
+
+illiberality: mean
+
+intolerance: cant tolereant
+
+thrift:  avoiding waste
+
+involved: engaeging, be part of 
+
+8 
